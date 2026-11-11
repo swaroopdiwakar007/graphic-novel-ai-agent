@@ -1,0 +1,11 @@
+# Preset: Whimsical children's story
+- **Genre:** adventure, fable
+- **Tone and mood:** warm, curious, playful
+- **Reader / rating:** ages 5 to 9, all ages
+- **Narration:** gentle third person, short sentences
+- **Dialogue:** simple, lots of sound words
+- **Art style:** soft watercolor look, rounded shapes, bright pastel palette, big expressive eyes
+- **Pacing:** easy and spacious; one idea per page
+- **Panels per page:** 2 to 4
+- **Favored layouts:** grid-4, splash, strip-3
+- **Lettering:** large rounded hand-lettering

@@ -1,0 +1,11 @@
+# Preset: Mythic epic
+- **Genre:** myth, legend, historical fantasy
+- **Tone and mood:** grand, solemn, luminous
+- **Reader / rating:** teens and adults, battles shown with restraint
+- **Narration:** formal third-person captions, storyteller cadence
+- **Dialogue:** elevated but readable
+- **Art style:** richly detailed painterly look, ornamental borders, saturated jewel tones with gold accents, symbolic framing
+- **Pacing:** balanced; spend splash pages on divine or heroic moments
+- **Panels per page:** 3 to 6
+- **Favored layouts:** splash, hero-row, wide-4
+- **Lettering:** decorative caption boxes, calm balloons

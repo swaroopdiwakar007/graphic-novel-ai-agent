@@ -1,0 +1,11 @@
+# Preset: Noir thriller
+- **Genre:** crime, mystery
+- **Tone and mood:** tense, shadowy, cynical
+- **Reader / rating:** adults, mature themes handled without graphic detail
+- **Narration:** first-person captions, dry and world-weary
+- **Dialogue:** clipped, understated
+- **Art style:** high-contrast ink, heavy blacks, rain and venetian-blind light, limited palette of black, white and one accent color
+- **Pacing:** slow burn; use widescreen stacks and silent panels
+- **Panels per page:** 3 to 5
+- **Favored layouts:** wide-4, strip-3, hero-row
+- **Lettering:** clean serif captions, plain balloons

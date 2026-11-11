@@ -4,6 +4,7 @@ One file per page: `script/page-NN.md`.
 
 ```
 # Page 07  (5 panels)
+Layout: <key from reference/panel-templates.md, e.g. hero-row>
 Beat: <which story-bible beat this covers>
 
 ## Panel 1

@@ -1,0 +1,12 @@
+# Preset: Fast-paced action (manga-inspired)
+- **Genre:** action, adventure
+- **Tone and mood:** energetic, intense, hopeful
+- **Reader / rating:** teens, mild violence only
+- **Narration:** minimal captions; action carries the story
+- **Dialogue:** short, punchy, big shouted lines
+- **Art style:** black and white with screentone shading, speed lines, dynamic angles, expressive faces
+- **Pacing:** fast; big reveals get splash pages
+- **Panels per page:** 4 to 7
+- **Favored layouts:** angled, hero-row, splash
+- **Format:** right-to-left reading if the user asks for it
+- **Lettering:** bold SFX integrated into the art
