@@ -181,3 +181,7 @@ graphic-novel-ai-agent/
 - **One style, one cast.** Style prompt and character descriptions never change mid-book.
 - **Review between stages.** Each stage is checked against the one before it, and key cuts are confirmed with you.
 - **Mind the source.** For stories that aren't yours, keep adaptations to personal use and avoid reproducing long passages verbatim.
+
+## License
+
+Released under the [MIT License](LICENSE). You can use, copy, change and share it freely, including in commercial projects, as long as you keep the copyright and license notice.
